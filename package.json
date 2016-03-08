@@ -1,0 +1,15 @@
+{
+  "name": "frontend_template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sterling Cobb",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^1.12.14"
+  }
+}

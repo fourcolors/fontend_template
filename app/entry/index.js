@@ -1,0 +1,1 @@
+document.write('Cool beans')
